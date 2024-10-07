@@ -19,15 +19,15 @@
 
 <!-- 使用的语言和工具 -->
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=java,go,c,c#,python,html,css,js,vue&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=java,go,c,cs,python,html,css,js,vue&theme=light" />
 </p>
 
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=vscode,md,idea,eclipse,visualstudio&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=vscode,rider,eclipse,idea,visualstudio&theme=light" />
 </p>
 
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=docker,nginx,git,github&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=docker,nginx,git,github,cloudflare&theme=light" />
 </p>
 
 <p align="center">
