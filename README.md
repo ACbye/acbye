@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=vscode,rider,eclipse,idea,visualstudio&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=vscode,rider,eclipse,md,idea,visualstudio&theme=light" />
 </p>
 
 <p align="center">
